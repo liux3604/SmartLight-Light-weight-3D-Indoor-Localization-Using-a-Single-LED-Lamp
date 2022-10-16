@@ -1,6 +1,6 @@
-# SmartLight-Light-weight-3D-Indoor-Localization-Using-a-Single-LED-Lamp
+# SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp
 
-Free pdf download in the containing folder. https://drive.google.com/file/d/1mYdqv5Cc5MHBcV0aOhcqaxVlkBE8GFAQ/view?usp=sharing
+Free pdf download in the containing folder. If you could not download, use the google drive to download: https://drive.google.com/file/d/1mYdqv5Cc5MHBcV0aOhcqaxVlkBE8GFAQ/view?usp=sharing
 
 SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp
 
